@@ -120,10 +120,7 @@ def starting():
 
 
 def mainbanner1():
-	print """\033[1;36m
-       ┬  ┬┌┬┐┌─┐\033[0m  
-       │  │ │ ├┤ \033[1;36m  
-       ┴─┘┴ ┴ └─┘ \033[0m 
+	print
 
 	\n""".decode('utf-8')
 
